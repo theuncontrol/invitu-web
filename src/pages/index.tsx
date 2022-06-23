@@ -8,7 +8,7 @@ import {
   WelcomeContainer,
   WelcomeSubtitle,
   WelcomeTitle
-} from './styles';
+} from '../styles/home';
 
 import Image from 'next/image';
 import logoSvg from '../assets/images/logo.svg';
